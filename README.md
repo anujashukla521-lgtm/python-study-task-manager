@@ -137,6 +137,27 @@ Enter your choice:
 
 ---
 
+## Version History
+
+### Version 1
+- Menu-driven interface
+- Add Task
+- View Tasks
+- Complete Task
+- Delete Task
+- Search Task
+- Priority validation
+
+### Planned Version 2
+- Save tasks to file
+- Load tasks from file
+
+### Planned Version 3
+- Task statistics
+- Task filtering
+
+---
+
 ## Future Improvements
 
 * Save tasks to a file
